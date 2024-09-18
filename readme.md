@@ -1,3 +1,4 @@
+![IMDb](https://github.com/user-attachments/assets/c100fd23-7ef2-4d0b-84e9-99751679f8ec)
 
 # IMDB Sentiment Classifier
 
